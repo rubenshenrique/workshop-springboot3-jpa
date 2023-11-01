@@ -29,20 +29,10 @@ Objetivos :
 - JPA / Hibernate
 - Maven
 
-# Como executar o projeto
-
 Pré-requisitos: Java 11
 
-```bash
 # clonar repositório
 git clone https://github.com/rubenshenrique/workshop-springboot3-jpa.git
-
-# entrar na pasta do projeto back end
-cd backend
-
-# executar o projeto
-./mvnw spring-boot:run
-```
 
 # Autor
 
