@@ -19,7 +19,7 @@ Objetivos :
 
 ## Modelo conceitual
 
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+![Modelo Conceitual](https://github.com/rubenshenrique/workshop-springboot3-jpa/blob/main/modelo%20conceitual.png?raw=true)
 
 # Tecnologias utilizadas
 
