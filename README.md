@@ -48,4 +48,4 @@ cd backend
 
 Rubens Henrique Ferraz Barbosa  
 
-https://www.linkedin.com/in/rubenshenriquefbarbosa/
+[https://www.linkedin.com/in/rubenshenriquefbarbosa/](https://www.linkedin.com/in/rubenshenriquefbarbosa/)
