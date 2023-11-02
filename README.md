@@ -31,8 +31,14 @@ Objetivos :
 
 Pré-requisitos: Java 11
 
-# clonar repositório
-git clone https://github.com/rubenshenrique/workshop-springboot3-jpa.git
+## Clonar Repositório
+- O Aplicativo Git Bash deverá estar instalado na máquina
+- Crie uma pasta do nome de sua preferência
+- Entre dentro da pasta criada e clique com botão direito em "Open Gib Bash Here"
+- Execute os comandos :
+- "-git init"
+- "-git clone https://github.com/rubenshenrique/workshop-springboot3-jpa.git"
+
 
 # Autor
 
