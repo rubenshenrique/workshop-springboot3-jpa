@@ -29,7 +29,7 @@ Objetivos :
 - JPA / Hibernate
 - Maven
 
-Pré-requisitos: Java 11
+Pré-requisitos: Java 17
 
 ## Clonar Repositório
 - O Aplicativo Git Bash deverá estar instalado na máquina
